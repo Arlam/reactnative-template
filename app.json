@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "PocketBook-Rx",
-    "slug": "PocketBook-Rx",
+    "name": "reactnative-template",
+    "slug": "reactnative-template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
